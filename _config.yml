@@ -22,9 +22,9 @@ color:
     - '#712426'
     - '#0062c0'
     - '#e4f4fc'
-  brandStrength: 0.3125
+  brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0.5625
   rhythmicContrast: 0.5
 purpose:
   - name: follow
