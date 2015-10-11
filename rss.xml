@@ -5,8 +5,15 @@
         <description><![CDATA[Heroes of the Storm]]></description>
         <link>https://thegrid.ai/heroes-of-the-storm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 11 Oct 2015 01:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2015 01:06:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/heroes-of-the-storm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sylvanas - Heroes of the Storm]]></title>
+            <description><![CDATA[<article><h1>Sylvanas - Heroes of the Storm</h1><p>As ranger-general of Silvermoon, it was Sylvanas Windrunner's sworn duty to defend her home against all who would threaten Quel'thalas. She was an accomplished commander and a deadly archer, yet even Sylvanas could not stop the Scourge. Denying her a clean death, the Death Knight Arthas turned Sylvanas into a banshee.</p><img src="http://media.blizzard.com/heroes/images/busts/sylvanas.jpg"></article>]]></description>
+            <link>http://us.battle.net/heroes/en/heroes/sylvanas/</link>
+            <guid isPermaLink="false">fbe36c69-9b23-47f2-aaf7-ac40edd21e29</guid>
+            <pubDate>Sun, 11 Oct 2015 01:06:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lt. Morales - Heroes of the Storm]]></title>
             <description><![CDATA[<article><h1>Lt. Morales - Heroes of the Storm</h1><p>Lt. Morales joined the United Earth Directorate (UED) to make a difference and protect her family. Over a very long and storied career, she has distinguished herself as a peerless medic, able to keep her patients alive and in the fight long after anyone else would have gone down. Lt.</p><img src="http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/lt-morales_stimDrone.jpg"></article>]]></description>
