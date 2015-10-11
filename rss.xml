@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Heroes of the Storm]]></title>
+        <description><![CDATA[Heroes of the Storm]]></description>
+        <link>https://thegrid.ai/heroes-of-the-storm/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 11 Oct 2015 01:03:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/heroes-of-the-storm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lt. Morales - Heroes of the Storm]]></title>
+            <description><![CDATA[<article><h1>Lt. Morales - Heroes of the Storm</h1><p>Lt. Morales joined the United Earth Directorate (UED) to make a difference and protect her family. Over a very long and storied career, she has distinguished herself as a peerless medic, able to keep her patients alive and in the fight long after anyone else would have gone down. Lt.</p><img src="http://us.battle.net/heroes/static/images/heroes/skills/thumbnails/lt-morales_stimDrone.jpg"></article>]]></description>
+            <link>http://us.battle.net/heroes/en/heroes/lt-morales/</link>
+            <guid isPermaLink="false">1277af27-127c-4c26-bd1b-f589a46921d1</guid>
+            <pubDate>Sun, 11 Oct 2015 01:02:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Heroes of the Storm Patch released: Addition of a new character | GearNuke]]></title>
+            <description><![CDATA[<article><h1>Heroes of the Storm Patch released: Addition of a new character | GearNuke</h1><p>Heroes of the Storm's latest patch revealed a new character in the game: StarCraft's Medic who is known as Lt. Morales. She is a healing-centric support character who is also capable of transporting her entire team across the map using her new and amazing talent called "dropship".</p><img src="http://gearnuke.com/wp-content/uploads/2015/10/blizzgc-00002-1024x576.jpg"></article>]]></description>
+            <link>http://gearnuke.com/heroes-storm-patch-released-addition-new-character/</link>
+            <guid isPermaLink="false">25dc699a-1a59-4bfc-8055-c0fcd923576e</guid>
+            <pubDate>Sun, 11 Oct 2015 00:33:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
