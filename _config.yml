@@ -1,6 +1,7 @@
 name: Heroes of the Storm
 favicon: null
 layout_spectrum: 0.8
+title: Heroes of the Storm
 cta:
   domain: null
   bucket: null
@@ -21,5 +22,5 @@ color:
   rhythmicContrast: 0.5
 purpose:
   - name: follow
-    item: null
+    item: 25dc699a-1a59-4bfc-8055-c0fcd923576e
     url: null
