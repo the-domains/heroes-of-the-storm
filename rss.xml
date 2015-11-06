@@ -4,8 +4,15 @@
         <description><![CDATA[Heroes of the Storm]]></description>
         <link>https://thegrid.ai/heroes-of-the-storm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 21:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 20:50:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/heroes-of-the-storm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New heroes, Battleground and Arena mode announced for Heroes of the Storm]]></title>
+            <description><![CDATA[<article><h1>New heroes, Battleground and Arena mode announced for Heroes of the Storm</h1><p>Three new heroes for Heroes of the Storm were announced at BlizzCon 2015 today, along with an Arena mode and Towers of Doom which is an all-new Battleground. The new characters are: Lunara the dryads ranged assassin, Grey Mane a Worgen warrior, and the two-headed Cho'Gall who is both a warrior and an assassin, respectively - per head.</p><img src="http://assets.vg247.com/current//2015/11/heroes-of-the-storm.jpg"></article>]]></description>
+            <link>http://www.vg247.com/2015/11/06/heroes-of-the-storm-arena-mode-blizzcon-2015/</link>
+            <guid isPermaLink="false">ec11e2bd-c420-480c-ba7c-e4271725f1bb</guid>
+            <pubDate>Fri, 06 Nov 2015 20:49:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Heroes of the Storm grants Artanis to those that pre-purchased Legacy of the Void today]]></title>
             <description><![CDATA[<article><h1>Heroes of the Storm grants Artanis to those that pre-purchased Legacy of the Void today</h1><p>StarCraft fans that have already pre-purchased StarCraft II: Legacy of the Void will find a pleasant surprise waiting for them in Heroes of the Storm. Artanis will report in, ready for battle, with some eye-opening abilities that HotS players may want to take a look at.</p><img src="https://s3-us-west-1.amazonaws.com/shacknews/assets/editorial/2015/10/Heroes_ArtanisAbilities.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://us.battle.net/heroes/en/blog/19915236/unlock-artanis-in-heroes-with-legacy-of-the-void-10-6-2015</link>
             <guid isPermaLink="false">e1f0f4d5-b471-48f9-9602-184d87a54435</guid>
             <pubDate>Sun, 11 Oct 2015 01:06:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Preseason Leaderboards: September 2015]]></title>
-            <description><![CDATA[<article><h1>Preseason Leaderboards: September 2015</h1><p>After the release of the August 2015 leaderboard, we've seen many players dive into Hero League, hoping to dash their way to the top of the leaderboards. Without further ado, feast your eyes on the Top 200 players for the month of September.</p><img src="http://bnetcmsus-a.akamaihd.net/cms/blog_header/sx/SX4E3EGY1NJ01441752394598.jpg"></article>]]></description>
-            <link>http://us.battle.net/heroes/en/blog/19915237/preseason-leaderboards-september-2015-10-9-2015</link>
-            <guid isPermaLink="false">38010cc4-17cc-4a51-b150-643533c2b1ab</guid>
-            <pubDate>Sun, 11 Oct 2015 01:06:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
