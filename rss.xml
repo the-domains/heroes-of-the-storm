@@ -4,8 +4,15 @@
         <description><![CDATA[Heroes of the Storm]]></description>
         <link>https://thegrid.ai/heroes-of-the-storm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 20:50:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 20:52:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/heroes-of-the-storm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BlizzCon 2015: 3 New Heroes Revealed for Heroes of the Storm - IGN]]></title>
+            <description><![CDATA[<article><h1>BlizzCon 2015: 3 New Heroes Revealed for Heroes of the Storm - IGN</h1><p>Plus the Tower of Doom Battleground. Three new Heroes and a new map have been revealed for Blizzard's Heroes of the Storm. Tower of Doom is the new Battleground, and the new Heroes are Cho'gal, Lunara, and Greymane. Cho'gal, one Hero controlled by two players, will be added to selected Battle.net players' accounts, in addition to BlizzCon attendees and Virtual Ticket holders.</p><img src="http://assets2.ignimgs.com/2015/06/11/blizzardconceptart1280jpg-98f6fa_1280w.jpg"></article>]]></description>
+            <link>http://www.ign.com/articles/2015/11/06/blizzcon-2015-3-new-heroes-revealed-for-heroes-of-the-storm</link>
+            <guid isPermaLink="false">bd0285c6-0df5-4d76-8886-bab16226f2cc</guid>
+            <pubDate>Fri, 06 Nov 2015 20:49:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New heroes, Battleground and Arena mode announced for Heroes of the Storm]]></title>
             <description><![CDATA[<article><h1>New heroes, Battleground and Arena mode announced for Heroes of the Storm</h1><p>Three new heroes for Heroes of the Storm were announced at BlizzCon 2015 today, along with an Arena mode and Towers of Doom which is an all-new Battleground. The new characters are: Lunara the dryads ranged assassin, Grey Mane a Worgen warrior, and the two-headed Cho'Gall who is both a warrior and an assassin, respectively - per head.</p><img src="http://assets.vg247.com/current//2015/11/heroes-of-the-storm.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.reddit.com/r/heroesofthestorm/comments/2jdh26/10_tips_for_new_players_in_heroes_of_the_storm/</link>
             <guid isPermaLink="false">0ae2b499-8455-4b7d-adcf-0b9171e82eda</guid>
             <pubDate>Sun, 11 Oct 2015 01:33:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unlock Artanis in Heroes with Legacy of the Void]]></title>
-            <description><![CDATA[<article><h1>Unlock Artanis in Heroes with Legacy of the Void</h1><p>Update: Players who pre-purchased physical versions of Legacy of the Void may contact Customer Service starting on October 20, 2015 to gain early access to Artanis. Click here for details. Hierarch of the Protoss, Artanis, is about to join the Nexus - and it's not a Protoss Nexus we're talking about here...</p><img src="http://bnetcmsus-a.akamaihd.net/cms/blog_header/76/76C44LPHDGSB1444094476470.jpg"></article>]]></description>
-            <link>http://us.battle.net/heroes/en/blog/19915236/unlock-artanis-in-heroes-with-legacy-of-the-void-10-6-2015</link>
-            <guid isPermaLink="false">e1f0f4d5-b471-48f9-9602-184d87a54435</guid>
-            <pubDate>Sun, 11 Oct 2015 01:06:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
